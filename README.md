@@ -1,4 +1,4 @@
-# Payroll Management System
+# PayrollOut- Payroll Management System
 
 ## Getting Started
 
